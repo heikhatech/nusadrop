@@ -4,6 +4,8 @@ jangan gunakan repository nusadrop lainya(yang lama) karena ada kesalahan upload
 jadi gunakan repository yang terhubung dengan snapdrop seperti ini ya
 terimakasih
 
+https://github.com/SnapDrop/snapdrop > repository snapdrop
+
 # Snapdrop 
 
 [Snapdrop](https://snapdrop.net): local file sharing in your browser. Inspired by Apple's Airdrop.
