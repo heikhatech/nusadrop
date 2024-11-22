@@ -31,4 +31,8 @@ Alternatively, you can become a [Github Sponsor](https://github.com/sponsors/Rob
 Thanks a lot for supporting free and open software!
 
 
+
+nusadrop.my.id menggunakan sourcecode dari snapdrop yang sudah dimodifikasi bagian html,cssnya
+jangan gunakan repository nusadrop lainya karena ada kesalahan soal fitur fork2
+
  
