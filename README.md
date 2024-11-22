@@ -1,6 +1,8 @@
-#nusadrop
+# nusadrop
 nusadrop.my.id menggunakan sourcecode dari snapdrop yang sudah dimodifikasi bagian html,cssnya,imagesnya
-jangan gunakan repository nusadrop lainya karena ada kesalahan upload soal fitur fork2, terimakasih
+jangan gunakan repository nusadrop lainya(yang lama) karena ada kesalahan upload soalnya yang lama tidak terhubung langsung dengan snapdrop
+jadi gunakan repository yang terhubung dengan snapdrop seperti ini ya
+terimakasih
 
 # Snapdrop 
 
